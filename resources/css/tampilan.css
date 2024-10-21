@@ -1,0 +1,19 @@
+/* Custom CSS untuk mengubah warna sidebar menjadi hijau */
+.main-sidebar {
+    background-color: green !important;
+  }
+
+  .breadcrumb-item.active {
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.breadcrumb-item a {
+    color: #007bff;
+}
+.breadcrumb-item a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
